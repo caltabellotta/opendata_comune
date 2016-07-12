@@ -1,5 +1,7 @@
-Pod,Posizione,2015,2016
-IT001E90528989,vicolo  snc- (wc vicolo Eremo),0,0
-IT001E92621251,via Acquanova sn,0,0
-IT001E926550184,via Cimitero  sn (Cimitero S.Anna),0,0
-IT001E92650303 ,viale XXIII Marzo 34 (scuole S.Anna),0,0
+Pod,Via,Note,2015,2016
+IT001E90528989,vicolo  snc,WC vicolo Eremo,0,0
+IT001E92621251,via Acquanova sn,,0,0
+IT001E926550184,via Cimitero  sn,Cimitero S.Anna,0,0
+IT001E92650303,viale XXIII Marzo 34,Scuole S.Anna,0,0
+IT001E92650502,via Vitt.Emanuele 3,Piazza Madrice S.Anna,0,0
+IT001E92650539,via Vitt.Emanuele 3,Sede delegaz. S.Anna,0,0
